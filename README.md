@@ -49,10 +49,10 @@ When executed, the program:
 
 Below are screenshots showing some of the CALC2000 program changes that we have made
 
-### Program Execution Output
+### Program Header
 ![Program Output](Screenshots/Screenshot%202026-01-29%20130847.png)
 
-### Additional Output Example
+### Additional Changes
 ![Additional Output](Screenshots/Screenshot%202026-01-29%20132629.png)
 
 ---
@@ -63,10 +63,10 @@ Below are screenshots showing some of the CALC2000 program changes that we have 
 .
 ├── CALC2000.cbl
 ├── README.md
-├── assets/
-│   ├── CALC2000_Output.png
-│   └── program_header.png
+├── Screenshots/
+│   ├── Screenshot 2026-01-29 130847.png
+│   ├── Screenshot 2026-01-29 132629.png
+│   ├── Screenshot 2026-01-29 134529.png
+│   └── Screenshot 2026-01-29 134605.png
 ├── peer-review/
 │   └── <peer-name>.pdf
-└── reflections/
-    └── GBU_Reflection.pdf
