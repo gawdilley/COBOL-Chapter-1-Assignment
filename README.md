@@ -45,6 +45,18 @@ When executed, the program:
 
 ---
 
+## 🖥️ Program Screenshots
+
+Below are screenshots showing the CALC2000 program output and execution steps.
+
+### Program Execution Output
+![Program Output](Screenshots/Screenshot%202026-01-29%20130847.png)
+
+### Additional Output Example
+![Additional Output](Screenshots/Screenshot%202026-01-29%20132629.png)
+
+---
+
 ## 📂 Repository Structure
 
 ```text
