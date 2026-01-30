@@ -47,7 +47,7 @@ When executed, the program:
 
 ## 🖥️ Program Screenshots
 
-Below are screenshots showing the CALC2000 program output and execution steps.
+Below are screenshots showing some of the CALC2000 program changes that we have made
 
 ### Program Execution Output
 ![Program Output](Screenshots/Screenshot%202026-01-29%20130847.png)
