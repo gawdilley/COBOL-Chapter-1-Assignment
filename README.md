@@ -26,10 +26,13 @@ When executed, the program:
 4. Repeats the calculation two additional times  
 5. Formats all numeric output using edited numeric fields  
 
-### Default Input Values
-- **Investment Amount:** 1000  
-- **Number of Years:** 10  
-- **Yearly Interest Rate:** 5.5%  
+### Default Output Values
+- Calculating Future Values
+- Future Value = 1,628.89
+- Investment Amount: 1,000
+- Number of Years: 10
+- Yearly Interest Rate: 5.5%
+
 
 ---
 
