@@ -71,15 +71,15 @@
 006800* Displays the calculated values                                  00680011
 006900 140-display-values.                                              00690011
 007000     move future-value to edited-whole-value                      00700011
-           move number-of-years to edited-number-of-years 
-           move yearly-interest-rate to edited-interest-rate 
-           move future-value to edited-decimal-value 
-           move investment-amount to edited-whole-value 
+           move number-of-years to edited-number-of-years
+           move yearly-interest-rate to edited-interest-rate
+           move future-value to edited-decimal-value
+           move investment-amount to edited-whole-value
 007100     display "Future value = " edited-whole-value                 00710011
-007200     display  "  Investment Amount: " edited-whole-value          00720011
-007300              "  Number of Years: " edited-number-of-years        00730011
-007400              "  Yearly Interest Rate: " edited-interest-rate "%" 00740011
-007500              "  Future Value: " edited-decimal-value.            00750011
+007200     display "  Investment Amount: " edited-whole-value           00720011
+007300     display "  Number of Years: " edited-number-of-years         00730011
+007400     display "  Yearly Interest Rate: " edited-interest-rate "%"  00740011
+007500     display "  Future Value: " edited-decimal-value.             00750011
 007600                                                                  00760011
 007700* Calculate the next year's value                                 00770011
 007800 120-calculate-next-fv.                                           00780011
